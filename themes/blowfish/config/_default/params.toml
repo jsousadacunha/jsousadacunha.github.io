@@ -15,6 +15,8 @@ enableCodeCopy = true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
+#defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+
 [header]
   layout = "basic" # valid options: basic, fixed
 
@@ -43,8 +45,9 @@ enableCodeCopy = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
-  layoutBackgroundBlur = false # only used when heroStyle equals background
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
@@ -64,7 +67,9 @@ enableCodeCopy = true
 
 [list]
   #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background
+  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
   #showViews = true
@@ -80,6 +85,24 @@ enableCodeCopy = true
 
 [taxonomy]
   showTermCount = true
+  #showHero = true
+  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  #showViews = false
+  #showLikes = false
+  #showTableOfContents = true
+  #cardView = false
+
+[term]
+  #showHero = true
+  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  #showViews = false
+  #showLikes = false
+  #showTableOfContents = true
+  #groupByYear = false
+  #cardViewScreenWidth = false
+  #cardView = false
 
 [firebase]
   # apiKey = "XXXXXX"
