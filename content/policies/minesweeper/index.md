@@ -12,6 +12,8 @@ showWordCount: false
 showEdit: false
 showComments: false
 sharingLinks: false
+aliases:
+    - /games/minesweeper/privacy-policy.html
 ---
 This privacy notice for José Sousa ("Company," "we," "us," or "our" ), describes how and why we might collect, store, use, 
 and/or share ("process") your information when you use our services ("Services"), such as when you:
