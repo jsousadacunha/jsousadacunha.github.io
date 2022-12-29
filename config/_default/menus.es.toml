@@ -40,3 +40,8 @@
   name = "Categorías"
   pageRef = "categories"
   weight = 20
+
+  [[footer]]
+  name = "Política de Privacidad"
+  url = "/policies/jmsousa"
+  weight = 30

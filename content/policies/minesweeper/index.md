@@ -172,7 +172,6 @@ the vital interests of a third party, such as situations involving potential thr
 
 We may process your information if you have given us specific permission (i.e., express consent) to use your personal 
 information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). 
-You can withdraw your consent at any time. Click *TODO* here to learn more.
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your 
 consent, including, for example:
@@ -246,7 +245,7 @@ We are not responsible for the content or privacy and security practices and pol
 other websites, services, or applications that may be linked to or from the Services. You should review the policies of 
 such third parties and contact them directly to respond to your questions.
 
-## 6. How loong do we keep your information?
+## 6. How long do we keep your information?
 
 ***In Short:*** *We keep your information for as long as necessary to fulfill the purposes outlined in this privacy 
 notice unless otherwise required by law.*
