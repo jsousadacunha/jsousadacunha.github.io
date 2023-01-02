@@ -26,5 +26,11 @@ Para ser breve: la Web fue inventada por [Sir Tim Berners-Lee](https://es.wikipe
 
 ## Pero, ¿qué aportó la Web 2.0?
 
-Además de lo ya propuesto por la versión inicial de la WWW, la considerada segunda versión aportó la participación social. A partir de este momento los usuarios, además de compartir, recuperar y leer información; también podrían dar su opinión sobre temas de los que no tienen ni idea, como lo haríamos con un cubata en la mano a las tres de la mañana en un bar .  
+Además de lo ya propuesto por la versión inicial de la WWW, la considerada segunda versión aportó la participación social. A partir de este momento los usuarios, además de compartir, recuperar y leer información; también podrían dar su opinión sobre temas de los que no tienen ni idea, como lo harían con un cubata en la mano a las tres de la mañana en un bar. Y no sólo eso, sino también la posibilidad de compartir su propio contenido sin necesidad de crear su propio sitio web: nacieron las redes sociales.  
+La nueva version de la Web se llenó entonces de memes, postureo, vergüenza ajena y vídeos de gatos (aún más, pero nunca hay demasiados de estos últimos :3). Toda esta cantidad infame de nuevos contenidos, que los usuarios no dudaron en bien etiquetar con *hashtags*, han servido a alimentar las nuevas inteligencias artificiales que junto a la potencia de cálculo de los ordenadores actuales han permido un salto notable en el desarrollo de esta tecnología, pero esto es otro tema.   
+
+## Más allá de TikTok está la Web 3.0
+
+Las grandes multinacionales, antes conocidas como GAFAM (Google, Amazon, Facebook, Apple y Microsoft), consideran que no basta con tener la Web llena de gente bailando sino que quieren que nosotros bailemos en directo dentro de ella, especialmente Facebook renombrada para la ocasión como Meta. ¿Quizás las GAFAM debeberían pasar a llamarse MAGMA?  
+Así, esta nueva version de la Web pretende crear una nueva *realidad virtual* de nuestras vidas introduciéndonos aún más en la Web, a costa aún más de nuestra privacidad y de nuestra cartera. Sí, nuestra cartera, porque la Web 3.0 además de compartir, recuperar, leer información, publicar contenidos propios y participar; prentende hacernos proprietarios de bienes virtuales.
 
