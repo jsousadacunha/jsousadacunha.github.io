@@ -5,5 +5,6 @@ translationKey: web10
 showAuthor: true
 showAuthorsBadges: true
 template: simple
+draft: true
 ---
 This is the content page.
