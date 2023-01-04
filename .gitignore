@@ -14,3 +14,4 @@ out/
 # Hugo
 ######################
 .hugo_build.lock
+_gen
