@@ -1,7 +1,7 @@
 ---
 title: "Web 1.0"
 date: 2022-12-29
-date_updated: 2022-12-30
+lastmod: 2023-01-10
 translationKey: web10
 showAuthor: true
 showAuthorsBadges: true
@@ -54,3 +54,8 @@ Si no estás de acuerdo con lo que aquí está escrito o simplemente te apetece 
 ## Post Scriptum
 
 Da igual la versión de la Web, en realidad todos sabemos que ha sido creada con un sólo objetivo: compartir fotos y vídeos de gatos.
+
+<br/>
+
+***Acerca de la imagen de esta publicación***  
+*Os presento a Moka, uno de mis gatos, que a partir de ahora pasa a engrosar el vasto universo gatuno de Internet*

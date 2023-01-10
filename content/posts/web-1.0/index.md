@@ -53,3 +53,8 @@ If you don't agree with what is written here or you just want to chat, you can c
 ## Postscript
 
 The version of the Web does not matter, in reality we all know that it has been created with a single objective: to share photos and videos of cats.
+
+<br/>
+
+***About the image in this post***  
+*I introduce you to Moka, one of my cats, who from now on will join the vast cat universe of the Internet*
