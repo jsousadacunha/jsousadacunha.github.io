@@ -1,7 +1,7 @@
 ---
 title: "Bing y OpenAI"
 date: 2023-03-14
-lastmod: 2023-03-14
+lastmod: 2024-01-16
 translationKey: bingopenai
 showAuthor: true
 showAuthorsBadges: true
@@ -112,4 +112,7 @@ _Si tenéis alguna duda o comentario podéis dejarlo abajo o contactarme por Twi
 <br/>
 
 ***Acerca de la imagen de esta publicación***  
-*Ya puestos, también la he generada con una IA. En este caso Dall.E 2 bajo la consigna: "horse figthing a cat as picasso style". Arf, nunca he entendido el arte cubista.*
+*~~Ya puestos, también la he generada con una IA. En este caso Dall.E 2 con el prompt: "horse figthing a cat as picasso style". Arf, nunca he entendido el arte cubista.~~*  
+*Actualización: no me gustaba la imagen generada hace un año con Dall.E 2, así que le he vuelto a pedir al generador de Bing (creo que usa Dall.E 3),
+con el mismo prompt "horse figthing a cat as picasso style" y en esta ocasión el resultado me agrada más. Así que pasa a ser
+la nueva imagen del artículo.*
