@@ -56,3 +56,8 @@ shortcode:
 
 recent:
   show_more: "Mostrar Más"
+
+series:
+  is_part: Este artículo es parte de una serie.
+  part: Parte
+  this_article: Este artículo
