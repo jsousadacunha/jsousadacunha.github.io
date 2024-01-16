@@ -11,7 +11,7 @@ showTaxonomies: false
 showWordCount: false
 sharingLinks: false
 ---
-This privacy notice for José Sousa ("Company," "we," "us," or "our" ), describes how and why we might collect, store, use, 
+This privacy notice for J.M. Sousa ("Company," "we," "us," or "our" ), describes how and why we might collect, store, use, 
 and/or share ("process") your information when you use our services ("Services"), such as when you:
 - Visit the website www.jmsousa.com 
 
@@ -25,7 +25,7 @@ If you still have any questions or concerns, please contact us at puzuma.soft+po
 by clicking the link following each key point or by using our table of contents to find the section you are looking for.**
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal 
-information depending on how you interact with José Sousa and the Services, the choices you make, and the products and 
+information depending on how you interact with J.M. Sousa and the Services, the choices you make, and the products and 
 features you use. Click [here](#1-what-information-do-we-collect) to learn more.
 
 **Do we process any sensitive personal information?** We do not process sensitive personal information.
@@ -202,7 +202,7 @@ You may contact us by email at  puzuma.soft+policy@gmail.com.
 We may disclose your personal information with our service providers pursuant to a written contract between us and each 
 service provider. Each service provider is a for-profit entity that processes the information on our behalf.
 
-José Sousa has not sold any personal information to third parties for a business or commercial purpose in the preceding 
+J.M. Sousa has not sold any personal information to third parties for a business or commercial purpose in the preceding 
 twelve (12) months.
 
 ### Your rights with respect to your personal data

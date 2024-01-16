@@ -6,7 +6,7 @@ translationKey: web10
 showAuthor: true
 showAuthorsBadges: true
 template: simple
-tags: ["Tecnología", "Internet", "Historia"]
+tags: ["Tecnología", "Internet", "Historia", "Gatos"]
 categories: ["Mundo Virtual"]
 description: '¿Por qué llamar "Regreso a la Web 1.0" a este sitio web? ¿Qué es o fue la Web 1.0? ¿Cuál es la diferencia respecto a la Web 2.0 y 3.0? ¿Por qué añadir siempre "punto cero" al nombre? ¿Existen acaso otras versiones de Web? ¿Por qué esta descripción está llena de preguntas? ¿Acaso tendrán una respuesta?'
 ---

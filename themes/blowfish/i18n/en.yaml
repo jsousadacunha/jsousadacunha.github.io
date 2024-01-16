@@ -62,3 +62,8 @@ shortcode:
 
 recent:
   show_more: "Show More"
+
+series:
+  is_part: This article is part of a series.
+  part: Part
+  this_article: This Article

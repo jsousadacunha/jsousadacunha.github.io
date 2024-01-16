@@ -5,18 +5,18 @@ isoCode = "es"
 weight = 2
 rtl = false
 
-title = "Regreso a la Web_1.0"
+title = "Regreso a la Web 1.0"
 # logo = "img/logo.png"
-description = "Divagaciones de un Ingeniero Informático con innumerables aficiones"
+description = "Divagaciones de un Ingeniero con innumerables aficiones"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "José Sousa"
-  image = "img/steam-robot.png"
+  name = "J.M. Sousa"
+  image = "img/octo-robot.jpg"
   headline = "No soy un robot"
-  bio = "Ingeniero Informatico como título, Arquitecto de Software como empleo, Desarrollador de videojuegos como pasatiempo"
+  bio = "Ingeniero inquieto, escritor ocasional y desarrollador de videojuegos aficionado"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -30,16 +30,16 @@ dateFormat = "2 January 2006"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-    { mastodon = "https://mastodon.gamedev.place/@puzuma" },
-    { github = "https://github.com/jsousadacunha" },
+#     { mastodon = "https://mastodon.gamedev.place/@puzuma" },
+#     { github = "https://github.com/jsousadacunha" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-    { instagram = "https://instagram.com/puzuma_soft" },
+#     { instagram = "https://instagram.com/puzuma_soft" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-    { linkedin = "https://linkedin.com/in/jose-sousa" }
+#     { linkedin = "https://linkedin.com/in/jose-sousa" }
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -60,4 +60,6 @@ dateFormat = "2 January 2006"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
+      { threads = "https://www.threads.net/@j.m.sousa" },
+      { wattpad = "https://www.wattpad.com/user/j_m_sousa"}
   ]
