@@ -2,11 +2,11 @@
 title: "Me lanzo a la escritura"
 date: 2024-01-16
 lastmod: 2024-01-16
-translationKey: writer
+translationKey: writing
 showAuthor: true
 showAuthorsBadges: true
 template: simple
-tags: ["Escritura", "Relatos", "Consejos"]
+tags: ["Escritura", "Consejos"]
 categories: ["Mundo Real"]
 description: 'Al final lo he hecho: he empezado a publicar mis historias.'
 series: ["Escritura"]
