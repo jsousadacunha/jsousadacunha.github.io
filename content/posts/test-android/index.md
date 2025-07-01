@@ -1,7 +1,7 @@
 ---
 date: 2025-07-01
 lastmod: 2025-07-01
-title: index
+title: Nuevo título
 ---
 
 Esto es otra prueba.
