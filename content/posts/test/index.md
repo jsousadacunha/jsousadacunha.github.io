@@ -1,6 +1,6 @@
 ---
 title: "Test"
-date: 2025-7-22
+date: 2025-07-22
 translationKey: test
 showAuthor: true
 showAuthorsBadges: true
