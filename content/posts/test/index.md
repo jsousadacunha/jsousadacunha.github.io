@@ -8,6 +8,7 @@ template: simple
 tags: ["Tecnología", "Internet"]
 categories: ["Mundo Virtual"]
 description: 'Esto es un test'
+draft: true
 ---
 
 Probando cosas.
