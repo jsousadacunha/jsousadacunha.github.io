@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Regreso a la Web 1.0</title>
+    <link>http://localhost:1313/es/posts/</link>
+    <description>Recent content in Blog on Regreso a la Web 1.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 J.M. Sousa</copyright>
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La idea</title>
+      <link>http://localhost:1313/es/posts/writing-idea/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/posts/writing-idea/</guid>
+      <description>&lt;p&gt;Antes de empezar a escribir es necesario una idea (o varias). De poco sirve sentarse delante del teclado y esperar
+que la inspiración llegue sola.&lt;/p&gt;
+&lt;p&gt;Ideas no es algo que me falte, más bien al contrario. El problema es conseguir ordenarlas y darles sentido. Pero, ¿en qué
+momento me visitan las musas y me conceden la divina inspiración? En el momento más inesperado, sería la respuesta corta.
+La respuesta larga, a continuación.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Me lanzo a la escritura</title>
+      <link>http://localhost:1313/es/posts/writing/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/posts/writing/</guid>
+      <description>&lt;p&gt;Al final lo he hecho: he empezado a compartir mis historias con el mundo.&lt;/p&gt;
+&lt;p&gt;Desde hace tiempo, mucho tiempo, tengo en mente varias ideas para escribir relatos e incluso, por qué no, novelas.
+En algunas ocasiones he hecho el esfuerzo de plasmarlas en papel, pero no es algo fácil y he acabado por abandonar.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Bing y OpenAI</title>
+      <link>http://localhost:1313/es/posts/bing-openai/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/posts/bing-openai/</guid>
+      <description>&lt;p&gt;De todos es sabido la integración de la inteligencia artificial desarrollada por OpenAI en las herramientas de Microsoft, principalemente en su navegador Bing.&lt;br&gt;
+He estado cacharreando un poco con la nueva funcionalidad de Bing que permite componer textos y el resultado no está nada mal. Para probarlo le he pedido escribir, con diferentes estilos, sobre la Web 1.0, 2.0 y 3; tema que he tratado en &lt;a
+  href=&#34;http://localhost:1313/es/posts/web-1.0/&#34;title=&#34;Web 1.0&#34;&gt;mi primer artículo&lt;/a&gt;. La única premisa que le he dado ha sido: &amp;ldquo;Diferencias entre la web 1.0, 2.0 y web 3&amp;rdquo;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Web 1.0</title>
+      <link>http://localhost:1313/es/posts/web-1.0/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/posts/web-1.0/</guid>
+      <description>&lt;p&gt;¿Por qué llamar &amp;ldquo;Regreso a la Web 1.0&amp;rdquo; a este sitio web? ¿Qué es o fue la Web 1.0? ¿Cuál es la diferencia respecto a la Web 2.0 y 3.0? ¿Por qué añadir siempre &amp;ldquo;punto cero&amp;rdquo; al nombre? ¿Existen acaso otras versiones de Web? ¿Por qué esta descripción está llena de preguntas? ¿Acaso tendrán una respuesta?&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/web-1.0/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

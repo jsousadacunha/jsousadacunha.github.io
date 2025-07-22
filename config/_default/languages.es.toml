@@ -1,22 +1,23 @@
+disabled = false
 languageCode = "es"
 languageName = "Español"
-displayName = "ES"
-isoCode = "es"
 weight = 2
-rtl = false
-
 title = "Regreso a la Web 1.0"
-# logo = "img/logo.png"
-description = "Divagaciones de un Ingeniero con innumerables aficiones"
-# copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 de January de 2006"
+  description = "Ingeniero informático de día, arquero y aventurero de corazón, fan del cine, los videojuegos… y los desafíos bien programados"
+  # logo = "img/logo.png"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "J.M. Sousa"
   image = "img/octo-robot.jpg"
   headline = "No soy un robot"
-  bio = "Ingeniero inquieto, escritor ocasional y desarrollador de videojuegos aficionado"
+  bio = "Ingeniero informático de día, arquero y aventurero de corazón, fan del cine, los videojuegos… y los desafíos bien programados."
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -39,7 +40,7 @@ dateFormat = "2 January 2006"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/jose-sousa" }
+#    { linkedin = "https://linkedin.com/in/jose-sousa" }
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -60,6 +61,6 @@ dateFormat = "2 January 2006"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
-      { threads = "https://www.threads.net/@j.m.sousa" },
-      { wattpad = "https://www.wattpad.com/user/j_m_sousa"}
+  #   { threads = "https://www.threads.net/@j.m.sousa" },
+  #   { wattpad = "https://www.wattpad.com/user/j_m_sousa"}
   ]

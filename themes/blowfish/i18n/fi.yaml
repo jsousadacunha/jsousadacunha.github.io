@@ -1,3 +1,6 @@
+global:
+  language: "FI"
+
 article:
   anchor_label: "Ankkuri"
   date: "{{ .Date }}"
@@ -12,6 +15,10 @@ article:
   word_count:
     one: "{{ .Count }} sana"
     other: "{{ .Count }} sanaa"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
 
 author:
   byline_title: "Kirjoittaja"
@@ -46,6 +53,7 @@ search:
 sharing:
   email: "Lähetä sähköpostilla"
   facebook: "Jaa Facebookissa"
+  line: "Jaa LINEssä"
   linkedin: "Jaa LinkedInissä"
   pinterest: "Kiinnitä Pinterestiin"
   reddit: "Lähetä Reddittiin"

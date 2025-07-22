@@ -1,3 +1,6 @@
+global:
+  language: "IT"
+
 article:
   anchor_label: "Ancora"
   date: "{{ .Date }}"
@@ -12,6 +15,10 @@ article:
   word_count:
     one: "{{ .Count }} parola"
     other: "{{ .Count }} parole"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
 
 author:
   byline_title: "Autore"
@@ -46,6 +53,7 @@ search:
 sharing:
   email: "Invia tramite email"
   facebook: "Condividi su Facebook"
+  line: "Condividi su LINE"
   linkedin: "Condividi su LinkedIn"
   pinterest: "Pinna su Pinterest"
   reddit: "Invia a Reddit"

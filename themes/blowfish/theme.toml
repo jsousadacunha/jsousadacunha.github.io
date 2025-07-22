@@ -6,14 +6,14 @@ licenselink = "https://github.com/nunocoracao/blowfish/blob/main/LICENSE"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 
 homepage = "https://github.com/nunocoracao/blowfish/"
-demosite = "https://nunocoracao.github.io/blowfish/"
+demosite = "https://blowfish.page/"
 
 tags = ["blog", "minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
-features = ["syntax higlighting", "dark mode", "emoji", "firebase", "views"]
+features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
 
 [author]
   name = "Nuno Coracao"
-  homepage = "https://nunocoracao.com/"
+  homepage = "https://n9o.xyz/"
 
 [original]
   author = "James Panther"

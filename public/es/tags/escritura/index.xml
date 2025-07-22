@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escritura on Regreso a la Web 1.0</title>
+    <link>http://localhost:1313/es/tags/escritura/</link>
+    <description>Recent content in Escritura on Regreso a la Web 1.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 J.M. Sousa</copyright>
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/escritura/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La idea</title>
+      <link>http://localhost:1313/es/posts/writing-idea/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/posts/writing-idea/</guid>
+      <description>&lt;p&gt;Antes de empezar a escribir es necesario una idea (o varias). De poco sirve sentarse delante del teclado y esperar
+que la inspiración llegue sola.&lt;/p&gt;
+&lt;p&gt;Ideas no es algo que me falte, más bien al contrario. El problema es conseguir ordenarlas y darles sentido. Pero, ¿en qué
+momento me visitan las musas y me conceden la divina inspiración? En el momento más inesperado, sería la respuesta corta.
+La respuesta larga, a continuación.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Me lanzo a la escritura</title>
+      <link>http://localhost:1313/es/posts/writing/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/posts/writing/</guid>
+      <description>&lt;p&gt;Al final lo he hecho: he empezado a compartir mis historias con el mundo.&lt;/p&gt;
+&lt;p&gt;Desde hace tiempo, mucho tiempo, tengo en mente varias ideas para escribir relatos e incluso, por qué no, novelas.
+En algunas ocasiones he hecho el esfuerzo de plasmarlas en papel, pero no es algo fácil y he acabado por abandonar.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

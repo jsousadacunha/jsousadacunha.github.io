@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etiquetas on Regreso a la Web 1.0</title>
+    <link>http://localhost:1313/es/tags/</link>
+    <description>Recent content in Etiquetas on Regreso a la Web 1.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 J.M. Sousa</copyright>
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Consejos</title>
+      <link>http://localhost:1313/es/tags/consejos/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/consejos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Escritura</title>
+      <link>http://localhost:1313/es/tags/escritura/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/escritura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA</title>
+      <link>http://localhost:1313/es/tags/ia/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/ia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>http://localhost:1313/es/tags/internet/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tecnología</title>
+      <link>http://localhost:1313/es/tags/tecnolog%C3%ADa/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/tecnolog%C3%ADa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gatos</title>
+      <link>http://localhost:1313/es/tags/gatos/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/gatos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Historia</title>
+      <link>http://localhost:1313/es/tags/historia/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/historia/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

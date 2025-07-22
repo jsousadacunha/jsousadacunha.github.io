@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mundo Virtual on Regreso a la Web 1.0</title>
+    <link>http://localhost:1313/categories/mundo-virtual/</link>
+    <description>Recent content in Mundo Virtual on Regreso a la Web 1.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 J.M. Sousa</copyright>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/mundo-virtual/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web 1.0</title>
+      <link>http://localhost:1313/posts/web-1.0/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/web-1.0/</guid>
+      <description>&lt;p&gt;¿Por qué llamar &amp;ldquo;Regreso a la Web 1.0&amp;rdquo; a este sitio web? ¿Qué es o fue la Web 1.0? ¿Cuál es la diferencia respecto a la Web 2.0 y 3.0? ¿Por qué añadir siempre &amp;ldquo;punto cero&amp;rdquo; al nombre? ¿Existen acaso otras versiones de Web? ¿Por qué esta descripción está llena de preguntas? ¿Acaso tendrán una respuesta?&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/web-1.0/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

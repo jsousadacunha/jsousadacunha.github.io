@@ -1,3 +1,6 @@
+global:
+  language: "HU"
+
 article:
   anchor_label: "Horgony"
   date: "{{ .Date }}"
@@ -12,6 +15,10 @@ article:
   word_count:
     one: "{{ .Count }} szó"
     other: "{{ .Count }} szó"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
 
 author:
   byline_title: "Szerző"
@@ -46,6 +53,7 @@ search:
 sharing:
   email: "Küldés emailben"
   facebook: "Megosztás a Facebookon"
+  line: "Megosztás a LINE-on"
   linkedin: "Megosztás a LinkedInen"
   pinterest: "Megosztás a Pinteresten"
   reddit: "Megosztás a Redditen"

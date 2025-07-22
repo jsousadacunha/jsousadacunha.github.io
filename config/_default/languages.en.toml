@@ -1,22 +1,23 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-
 title = "Back to Web 1.0"
-# logo = "img/logo.png"
-description = "Ramblings of an Engineer with numberless hobbies"
-# copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Software engineer by day, archer and adventurer at heart, lover of cinema, video games… and well-coded challenges"
+  # logo = "img/logo.png"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "J.M. Sousa"
   image = "img/octo-robot.jpg"
   headline = "I'm not a robot"
-  bio = "Restless engineer, occasional writer and amateur video game developer"
+  bio = "Software engineer by day, archer and adventurer at heart, lover of cinema, video games… and well-coded challenges."
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -60,6 +61,6 @@ dateFormat = "2 January 2006"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
-    { threads = "https://www.threads.net/@j.m.sousa" },
-    { wattpad = "https://www.wattpad.com/user/j_m_sousa"}
+  #  { threads = "https://www.threads.net/@j.m.sousa" },
+  #  { wattpad = "https://www.wattpad.com/user/j_m_sousa"}
   ]

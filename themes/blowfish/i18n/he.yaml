@@ -1,3 +1,6 @@
+global:
+  language: "HE"
+
 article:
   anchor_label: "עוגן"
   date: "{{ .Date }}"
@@ -12,6 +15,10 @@ article:
   word_count:
     one: "{{ .Count }} מילה"
     other: "{{ .Count }} מילים"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
 
 author:
   byline_title: "מחבר"
@@ -46,6 +53,7 @@ search:
 sharing:
   email: "שליחת אימייל"
   facebook: "שיתוף בפייסבוק"
+  line: "שיתוף בליין"
   linkedin: "שיתוף בלינקדאין"
   pinterest: "שיתוף בפינטרסט"
   reddit: "שליחה לרדיט"

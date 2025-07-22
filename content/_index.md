@@ -1,2 +1,1 @@
-**Ramblings of an Engineer with numberless hobbies**  
-*Sometimes I write in English, other times in Spanish and, when I feel inspired, in both languages.*
+**Ingeniero informático de día, arquero y aventurero de corazón, fan del cine, los videojuegos… y los desafíos bien programados**

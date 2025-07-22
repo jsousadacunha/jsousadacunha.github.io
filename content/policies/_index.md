@@ -1,5 +1,5 @@
 ---
-title: "Policies"
+title: "Legal"
 cascade:
     showSummary: false
 ---    

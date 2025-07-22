@@ -4,16 +4,18 @@
 
 theme = "blowfish"
 baseURL = "https://www.jmsousa.com/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
 
 [taxonomies]
   tag = "tags"
@@ -28,3 +30,33 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[related]
+  threshold = 0
+  toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "series"
+        weight = 50
+
+    [[related.indices]]
+        name = "authors"
+        weight = 20
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+    [[related.indices]]
+      applyFilter = false
+      name = 'fragmentrefs'
+      type = 'fragments'
+      weight = 10

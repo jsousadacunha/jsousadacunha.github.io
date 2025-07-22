@@ -1,60 +1,61 @@
 ---
 title: "Web 1.0"
 date: 2022-12-29
+lastmod: 2023-01-10
 translationKey: web10
 showAuthor: true
 showAuthorsBadges: true
 template: simple
-tags: ["Technology", "Internet", "History", "Cats"]
-categories: ["Virtual World"]
-description: 'Why call this website "Back to Web 1.0"? What is or was Web 1.0? What is the difference compared to Web 2.0 and 3.0? Why always add "dot zero" to the name? Are there other versions of the Web? Why is this description full of questions? Will they have an answer?'
+tags: ["Tecnología", "Internet", "Historia", "Gatos"]
+categories: ["Mundo Virtual"]
+description: '¿Por qué llamar "Regreso a la Web 1.0" a este sitio web? ¿Qué es o fue la Web 1.0? ¿Cuál es la diferencia respecto a la Web 2.0 y 3.0? ¿Por qué añadir siempre "punto cero" al nombre? ¿Existen acaso otras versiones de Web? ¿Por qué esta descripción está llena de preguntas? ¿Acaso tendrán una respuesta?'
 ---
-Why call this website "Back to Web 1.0"? What is or was Web 1.0? What is the difference compared to Web 2.0 and 3.0? Why always add "dot zero" to the name? Are there other versions of the Web? Why is this description full of questions? Will they have an answer?
+¿Por qué llamar "Regreso a la Web 1.0" a este sitio web? ¿Qué es o fue la Web 1.0? ¿Cuál es la diferencia respecto a la Web 2.0 y 3.0? ¿Por qué añadir siempre "punto cero" al nombre? ¿Existen acaso otras versiones de Web? ¿Por qué esta descripción está llena de preguntas? ¿Acaso tendrán una respuesta?
 
-## Why call this website "Back to Web 1.0"?
+## ¿Por qué llamar "Regreso a la Web 1.0" a este sitio web?
 
-Web 1.0 is something that *was* and *still is*.
-In order to answer the question in this heading, we must first answer the other questions: What is Web 1.0 and what is the difference with respect to other versions?
+La Web 1.0 es algo que *fue* y *sigue siendo*.   
+Para poder responder a la pregunta de este encabezado, hay que responder antes a las otras preguntas: ¿Qué es la Web 1.0 y cuál es la diferencia respecto a las otras versiones?  
 
-## So, what is Web 1.0?
+## Entonces, ¿qué es la Web 1.0?
 
-The Web as it is commonly known, World Wide Web (WWW) is its real name, is an information system that allows access to documents and other resources through the Internet. So far I am not explaining anything that we do not already know and I am not going to go into details of operation, protocols, languages, etc. Now we are more interested in knowing where all this came from.
+La Web como se le conoce comunmente, World Wide Web (WWW) es su verdadero nombre, es un sistema de información que permite acceder a documentos y otros recursos a través de Internet. Hasta aquí no estoy explicando nada que no sepamos ya y no voy a entrar en detalles de funcionamiento, protocolos, lenguajes, etc. Ahora nos interesa más saber de dónde surgió todo esto.  
 
-To be brief: the Web was invented by [Sir Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), a.k.a. TimBL, in 1989. The WWW was created with a very simple objective: to share, retrieve and read information electronically. Like the Great War that wasn't called World War I until there was a second, so was the version number 1.0 (on the other hand, rarely used). It was the appearance of the so-called Web 2.0 that made it necessary to use a suffix to make the difference with what existed.
+Para ser breve: la Web fue inventada por [Sir Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), a.k.a. TimBL, en 1989. La WWW fue creada con un objetivo muy simple: compartir, recuperar y leer información de manera electrónica. Al igual que la Gran Guerra que no se la llamó Primera Guerra Mundial hasta que no hubo una segunda, lo mismo ocurrió con el número de version 1.0 (por otro lado, poco utilizado). Fue la aparición de la autodenominada Web 2.0 que hizo necesaria la utilización de un sufijo para hacer notar la diferencia con lo existente. 
 
-## But what did Web 2.0 bring?
+## Pero, ¿qué aportó la Web 2.0?
 
-In addition to what was already proposed by the initial version of the WWW, the considered second version contributed social participation. From this moment on, users, in addition to sharing, retrieving and reading information; They could also give their opinion on issues they have no idea about, as they would with a drink in their hands at three in the morning in a bar. And not only that, but also the ability to share your own content without having to create and manage a website: social media was born.
-The new version of the Web was then filled with memes, poseurs, embarrassment, and cat videos (even more, but there are never too many :3). All this infamous amount of information, which users did not hesitate to label with *hashtags*, have had side effects: feeding the voracious and insatiable artificial intelligence that, together with the computing power of current computers, has allowed a notable leap in the development of this technology, but this is another topic.
+Además de lo ya propuesto por la versión inicial de la WWW, la considerada segunda versión aportó la participación social. A partir de este momento los usuarios, además de compartir, recuperar y leer información; también podrían dar su opinión sobre temas de los que no tienen ni idea, como lo harían con un cubata en la mano a las tres de la mañana en un bar. Y no sólo eso, sino también la posibilidad de compartir su propio contenido sin necesidad de crear y gestionar un sitio web: nacieron las redes sociales.  
+La nueva versión de la Web se llenó entonces de memes, postureo, vergüenza ajena y vídeos de gatos (aún más, pero nunca hay demasiados :3). Toda esta cantidad infame de información, que los usuarios no dudaron en bien etiquetar con *hashtags*, han tenido efectos colaterales: alimentar las voraces e insaciables inteligencias artificiales que junto a la potencia de cálculo de los ordenadores actuales han permido un salto notable en el desarrollo de esta tecnología, pero esto es otro tema.   
 
-## After TikTok comes Web3
+## Después de TikTok viene la Web3
 
-The *Evil Corps* (as our friend Elliot would call them), known as GAFAM (Google, Amazon, Facebook*, Apple and Microsoft), consider that it is not enough to have the Web full of people dancing and making fools of themselves, but rather they want we dance live *inside* it. Especially Facebook, renamed for the occasion as Meta (Perhaps the GAFAM should be renamed MAGMA?).
-**Welcome to the Metaverse!**
-That's right, this new version of the Web aims to create a new reality of our lives, a *virtual reality*, further exposing our private life on the Web at the cost of an arm and a leg. Yes, this will not be free, because first and foremost Web3 will be a business. In addition to sharing, recovering, reading information, publishing your own content and participating; It intends to make us owners of virtual goods for which we will pay with real money. It doesn't sound so good anymore.
-It must be admitted that the idea does not come from MAGMA, they just want to exploit all this. The proposal for this evolution of the Web was made by Gavin Wood, co-founder of Ethereum. In his concept of the new Web, power returns to the user thanks to the decentralization provided by the blockchain, cryptocurrencies and NFTs.
+Las *Evil Corp* (como las llamaría nuesto amigo Elliot), conocidas como GAFAM (Google, Amazon, Facebook*, Apple y Microsoft), consideran que no basta con tener la Web llena de gente bailando y haciendo el ridículo sino que quieren que nosotros bailemos en directo *dentro* de ella. Especialmente Facebook, renombrada para la ocasión como Meta (¿Quizás las GAFAM debeberían pasar a llamarse MAGMA?).  
+**¡Bienvenido al Metaverso!**  
+Así es, esta nueva versión de la Web pretende crear una nueva realidad de nuestras vidas, una *realidad virtual*, exponiendo aún más nuestra vida privada en la Web a costa de empeñar un riñon. Sí, esto no será gratis, porque ante todo la Web3 será un negocio. Además de compartir, recuperar, leer información, publicar contenidos propios y participar; prentende hacernos proprietarios de bienes virtuales por los que pagaremos con dinero real. Ya no suena tan bien.  
+Hay que admitir que la idea no viene de las MAGMA, ellas tan solo pretenden explotar todo esto. La propuesta de esta evolución de la Web la hizo Gavin Wood, cofundador de Ethereum. En su concepto de la nueva Web el poder vuelve al usuario gracias a la descentralización que aporta la blockchain, las criptomonedas y los NFTs.
 
-## Wait! What happened to the .0 of version 3?
+## Wait! ¿Qué ha pasado con el .0 de la versión 3?
 
-And it is that not everyone agrees with the definition of this new version of the Web.
-Let's remember Sir Tim Berners-Lee, the forerunner of all this. He disagrees. And since he is not just nobody who gives his opinion on social networks, it is worth listening to him. TimBL does call his vision of the Web that awaits us in the future Web 3.0: the semantic web. This Web aims to return control of personal data to users thanks to what the founder of the Web calls *Solid pods*: the user decides which information to share with which services and at the same time all these services will be interconnected through the *Solid pods* from users.
+Y es que no todos están de acuerdo con la definición de esta nueva versión de la Web.  
+Recordemos a Sir Tim Berners-Lee, el precursor de todo esto. Él no está de acuerdo. Y como no se trata de cualquier mindundi que da su opinión en redes sociales, merece la pena escucharle. TimBL, sí llama Web 3.0 a su visión de la Web que nos espera en el futuro: la web semántica. Esta Web pretende devolver el control de los datos personales a los usuarios gracias a lo que el fundador de la Web llama *Solid pods* : el usuario decide qué información compartir con qué servicios y al mismo tiempo todos estos servicios estarán interconectados a través de los *Solid pods* de los usuarios.
 
-## Web3, Web 3.0... but which one will be good?
+## Web3, Web 3.0... pero, ¿cuál será la buena?
 
-Maybe both.
-It does not seem that one is incompatible with the other. So we'll probably see the two ideas converge into a single type of Web. Anything that is returning the sovereignty of personal data to users is welcome.
+Quizás las dos.  
+No parece que la una sea incompatible con la otra. Así que probablemente veamos converger las dos ideas en un sólo tipo de Web. Todo lo que sea devolver la soberanía de los datos personales a los usuarios es bienvenido.
 
-## And all this spiel to explain the name of this website?
+## ¿Y todo este rollo para explicar el nombre de este sitio web?
 
-I have not tried to give too many details and I have made a rather simple analysis of what the Web is and will be. However, I have tried to explain that this website has been created with the intention of sharing, retrieving and reading information electronically; therefore it could be classified as 1.0.
-Users who pass through here will not have the opportunity to give their opinion, nor to add their own content, nor even to give a "Like".
-If you don't agree with what is written here or you just want to chat, you can contact me through one of those Web 2.0 sites in my bio ;)
+No he pretendido dar demasiados detalles y he hecho un análisis bastante simplón de lo qué es y será la Web. Con todo, he tratado de explicar que este sitio web ha sido creado con la intención de compartir, recuperar y leer información de manera electrónica; por lo tanto se podría clasificar como 1.0.  
+Los usuarios que pasen por aquí no tendrán la ocasión de opinar, ni de añadir sus propios contenidos, ni siquiera de dar un "Me gusta".  
+Si no estás de acuerdo con lo que aquí está escrito o simplemente te apetece charlar, puedes contactarme a través de uno de esos sitios Web 2.0 de mi biografía ;) 
 
-## Postscript
+## Post Scriptum
 
-The version of the Web does not matter, in reality we all know that it has been created with a single objective: to share photos and videos of cats.
+Da igual la versión de la Web, en realidad todos sabemos que ha sido creada con un sólo objetivo: compartir fotos y vídeos de gatos.
 
 <br/>
 
-***About the image in this post***  
-*I introduce you to Moka, one of my cats, who from now on will join the vast cat universe of the Internet*
+***Acerca de la imagen de esta publicación***  
+*Os presento a Moka, uno de mis gatos, que a partir de ahora pasa a engrosar el vasto universo gatuno de Internet*

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal on Regreso a la Web 1.0</title>
+    <link>http://localhost:1313/policies/</link>
+    <description>Recent content in Legal on Regreso a la Web 1.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 J.M. Sousa</copyright>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/policies/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Política de Privacidad</title>
+      <link>http://localhost:1313/policies/jmsousa/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/policies/jmsousa/</guid>
+      <description>&lt;p&gt;Esta política de privacidad para J.M. Sousa (&amp;ldquo;Empresa&amp;rdquo;, &amp;ldquo;nosotros&amp;rdquo;, &amp;ldquo;nuestro&amp;rdquo;) describe cómo manejamos tus datos. Nuestro sitio no recopila ninguna información personal, ni de manera directa ni indirecta. No muestra anuncios, ni tiene niveles o cuentas de usuario.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
