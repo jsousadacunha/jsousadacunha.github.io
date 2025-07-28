@@ -1,6 +1,3 @@
-######################
-# Intellij
-######################
 .idea/
 *.iml
 *.iws
@@ -9,11 +6,7 @@
 *.orig
 classes/
 out/
-
-######################
-# Hugo
-######################
 .hugo_build.lock
 _gen
-/public
-/resources
+public/
+resources/
