@@ -16,7 +16,7 @@ title = "Regreso a la Web 1.0"
 [params.author]
   name = "J.M. Sousa"
   image = "img/octo-robot.jpg"
-  headline = "No soy un robot"
+  headline = "Humano tentacular"
   bio = "Ingeniero informático de día, arquero y aventurero de corazón, fan del cine, los videojuegos… y los desafíos bien programados."
   links = [
   #   { email = "mailto:hello@your_domain.com" },

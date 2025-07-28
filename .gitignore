@@ -15,3 +15,5 @@ out/
 ######################
 .hugo_build.lock
 _gen
+/public
+/resources
