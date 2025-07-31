@@ -13,7 +13,7 @@ series_order: 2
 description: "Segundo año de cargado de desafíos."
 ---
 
-Ya no soy un principiante. Es hora de enfrentarse a desafíos más serios. Es un segundo año cargado de competiciones, tanto en sala como en exterior. A tal punto que me acabaré encontrándome un poco sobrepasado.
+Ya no soy un principiante. Es hora de enfrentarse a desafíos más serios. Es un segundo año cargado de competiciones, tanto en sala como en exterior. A tal punto que acabaré encontrándome un poco sobrepasado.
 
 ## Segundo año: temporada 2024-2025  
 
